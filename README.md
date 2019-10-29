@@ -1,2 +1,6 @@
 # hello-world
-Just another depository
+
+Hi humans,
+
+Nothing is everything
+Everything is something 
